@@ -1,5 +1,5 @@
 # EC521 Cybersecurity Project - IP Camera Security
-Abdulaziz AlMailam (almailam), Kwadwo Osafo (kojo-osafo), Karin Luna (kaluna)
+Abdulaziz AlMailam (almailam), Kwadwo Osafo (kojo-osafo), Karin Luna (karinaimeeluna)
 
 Internet Protocol (IP) security cameras are more popular than ever and almost always the go-to source for visual evidence. In an effort to gain a lead over their competitors, major manufacturers have shifted their focus towards selling IP cameras at more affordable prices with greater features than ever. An equal but opposite rise in discovered vulnerabilities and exploits presents a serious challenge to the true security of these cameras. Our project aims to examine the extent to which these vulnerabilities pose a risk by attempting to use them to two generic IP cameras in order to evaluate their network security, with the end-goal of recommending appropriate defenses.
 
