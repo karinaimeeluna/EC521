@@ -1,0 +1,15 @@
+POST /RPC2 HTTP/1.1
+Host: 192.168.1.108
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://192.168.1.108
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15
+Connection: keep-alive
+Referer: http://192.168.1.108/
+Content-Length: 96
+Cookie: WebClientSessionID=Rne7ddj88bd0586a2345687146; username=admin
+
+{"method":"global.getCurrentTime","params":null,"id":501,"session":"Rne7ddj88bd0586a2345687146"}
