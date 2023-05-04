@@ -1,3 +1,4 @@
+// ORIGINAL DDOS SCRIPT LINK: https://github.com/Folk4681/SlowLorisDDoSAttackCPP
 #include <stdio.h>
 #include <iostream>
 #include <string>
