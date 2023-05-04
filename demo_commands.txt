@@ -1,0 +1,20 @@
+EC521 Project Presentation Reference - Aziz (4,5,6,DEMO) Kwadwo (7,8,11,12,13) Karin (1,2,3,9,10,14) [Demo after 12]
+
+To open: slides, camera in web browser, terminal tabs for Dahua Console and DDOS, Demo folder
+
+Google Slides: https://docs.google.com/presentation/d/1KSjB7PBzclDEcfWjLauLL3cQrnor2HZMFoZvgAe6Uu0/
+Demo Directory: /Users/almailam/Documents/EC521/project/demo
+
+User: admin		Pass: admin123
+
+
+Dahua Console:
+	- Directory: /Users/almailam/Documents/EC521/project/demo/dahua_console
+	- Console: /Users/almailam/Documents/EC521/project/demo/dahua_console/Console.py
+	- CONSOLE COMMAND (TCP Port): ./Console.py --rhost 192.168.1.108 --rport 37777 --auth admin:admin123 
+
+
+DDOS Script (Slowloris Method):
+	- Code: /Users/almailam/Documents/EC521/project/demo/ddos_script.cpp
+	- Executable: /Users/almailam/Documents/EC521/project/demo/ddos
+	- DDOS COMMAND (1000000 sockets, 10 threads): ./ddos 192.168.1.108 554 1000000 10
