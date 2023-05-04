@@ -1,12 +1,4 @@
-EC521 Project Presentation Reference - Aziz (4,5,6,DEMO) Kwadwo (7,8,11,12,13) Karin (1,2,3,9,10,14) [Demo after 12]
-
-To open: slides, camera in web browser, terminal tabs for Dahua Console and DDOS, Demo folder
-
-Google Slides: https://docs.google.com/presentation/d/1KSjB7PBzclDEcfWjLauLL3cQrnor2HZMFoZvgAe6Uu0/
-Demo Directory: /Users/almailam/Documents/EC521/project/demo
-
 User: admin		Pass: admin123
-
 
 Dahua Console:
 	- Directory: /Users/almailam/Documents/EC521/project/demo/dahua_console
